@@ -1,0 +1,17 @@
+name: fatiando-talk
+dependencies:
+    - python=2.7
+    - pip
+    - numpy
+    - scipy
+    - matplotlib
+    - numba
+    - future
+    - basemap
+    - pillow
+    - jupyter
+    - mayavi
+    - seaborn
+    - pip:
+        - traits==4.5.0
+        - fatiando==0.4
