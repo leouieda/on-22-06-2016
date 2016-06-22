@@ -2,9 +2,6 @@
 
 [Leonardo Uieda](http://www.leouieda.com)
 
-## About
-
-
 ## Resumo
 
 O Fatiando a Terra (www.fatiando.org) é uma biblioteca feita na linguagem
